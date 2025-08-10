@@ -1,0 +1,1 @@
+Place a TTF font file here named font.ttf if you need custom font rendering for drawtext.
